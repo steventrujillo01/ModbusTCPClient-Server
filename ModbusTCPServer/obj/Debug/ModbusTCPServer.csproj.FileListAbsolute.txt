@@ -1,0 +1,13 @@
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\bin\Debug\ModbusTCPServer.exe.config
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\bin\Debug\ModbusTCPServer.exe
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\bin\Debug\ModbusTCPServer.pdb
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\bin\Debug\EasyModbus.dll
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\bin\Debug\EasyModbus.xml
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.csproj.AssemblyReference.cache
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.Properties.Resources.resources
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.csproj.GenerateResource.cache
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.csproj.CopyComplete
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.exe
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.pdb
+C:\Users\Steven Alexander\source\repos\ModbusTCPServer\obj\Debug\ModbusTCPServer.FormServer.resources
